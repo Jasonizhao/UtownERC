@@ -154,7 +154,7 @@ body.fullscreen-enabled #fullscreenToggle {
   height: 40px;
   padding: 5px;
   background-color: rgb(17,50,133);
-  background-color: rgba(17,50,133,0.8);
+  background-color: rgba(17,50,133,0.9);
 }
 
 .mobile #autorotateToggle {
